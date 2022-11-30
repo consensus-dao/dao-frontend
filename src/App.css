@@ -295,9 +295,6 @@ table {
 .section {
   padding: 40px;
   border-radius: 50px;
-  border: 10px solid;
-  /* border 效果出不來 */
-  border-image-source: linear-gradient(263.38deg, #ffffff 0%, #adfbff 49.1%, #ffef97 99.23%);
 
   background: linear-gradient(
     93.87deg,
@@ -511,12 +508,12 @@ table {
 
 .place .cloud1 {
   position: absolute;
-  top: 2760px;
+  top: 0px;
 }
 
 .place .cloud2 {
   position: absolute;
-  top: 3312px;
+  bottom: 0px;
 }
 
 .programs ul li {
@@ -667,4 +664,17 @@ table {
   position: absolute;
   left: 1315px;
   top: 5510px;
+}
+
+.place-background-border {
+  margin: auto;
+  margin-bottom: 63px;
+  width: fit-content;
+  background: linear-gradient(263.38deg, #ffffff 0%, #adfbff 49.1%, #ffef97 99.23%);
+  padding: 10px;
+  border-radius: 60px;
+}
+
+.section-container {
+  position: relative;
 }
