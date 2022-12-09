@@ -14,7 +14,7 @@ function Programs() {
         </li>
         <li>
           <p className="time">09:00~09:30</p>
-          <p className="topic">DAO - 新時代的 conference 形式</p>
+          <p className="topic">Ceramic - A Portable Self-Sovereign Data Network</p>
           <img src="mic.png" alt="" />
           <p className="name">David</p>
         </li>
@@ -38,9 +38,9 @@ function Programs() {
         </li>
         <li>
           <p className="time">11:40~12:10</p>
-          <p className="topic">Defi 槓桿協議</p>
+          <p className="topic">不需要透過網站且不用透過function即可以執行mint NFT</p>
           <img src="mic.png" alt="" />
-          <p className="name">Wade</p>
+          <p className="name">Aaron</p>
         </li>
         <li>
           <p className="zone">PM</p>
@@ -51,9 +51,9 @@ function Programs() {
         </li>
         <li>
           <p className="time">13:10~13:40</p>
-          <p className="topic">不需要透過網站且不用透過function即可以執行mint NFT</p>
+          <p className="topic">Aptos 上的 Vesting Wallet</p>
           <img src="mic.png" alt="" />
-          <p className="name">Aaron</p>
+          <p className="name">Justa</p>
         </li>
         <li>
           <p className="time">13:50~14:20</p>
@@ -63,13 +63,11 @@ function Programs() {
         </li>
         <li>
           <p className="time">14:30~15:00</p>
-          <p className="topic">Aptos 上的 Vesting Wallet</p>
-          <img src="mic.png" alt="" />
-          <p className="name">Justa</p>
+          <p className="topic">Tea Break</p>
         </li>
         <li>
-          <p className="time">15:00~15:30</p>
-          <p className="event">Tea break</p>
+          <p className="time">15:00~15:20</p>
+          <p className="event">Lightning Talk</p>
         </li>
         <li>
           <p className="time">15:30~16:00</p>
@@ -78,15 +76,21 @@ function Programs() {
           <p className="name">Ray</p>
         </li>
         <li>
-          <p className="time">16:10~16:30</p>
+          <p className="time">16:10~16:40</p>
           <p className="topic">Job Fairs</p>
         </li>
         <li>
-          <p className="time">16:30~17:00</p>
-          <p className="topic">Lighting Talks</p>
+          <p className="time">16:40~17:10</p>
+          <p className="topic">Teleport module on Aptos</p>
+          <img src="mic.png" alt="" />
+          <p className="name">Rick</p>
+        </li>
+        <li>
+          <p className="time">17:10~17:15</p>
+          <p className="topic">Closing</p>
         </li>
         <li className="pb-28">
-          <p className="time">17:00~19:00</p>
+          <p className="time">17:15</p>
           <p className="event">Dinner party for speakers and sponsers</p>
         </li>
       </ul>

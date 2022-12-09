@@ -17,7 +17,7 @@ function PapersDao() {
           <h3>Join DAO !</h3>
         </div>
         <div className="btn">
-          <a href="">Click here</a>
+          <a href="https://discord.gg/HhHrYqP2za">Click here</a>
         </div>
         <div className="dao-pic">
           <img src="daopic.png" alt="" />

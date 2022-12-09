@@ -11,14 +11,14 @@ function Place() {
                 時間
                 <span className="pl-5">12/10（六）9:00 ~ 17:00</span>
               </li>
-              <li className="pl-11">AppWorks School 4F</li>
+              <li className="pl-11">AppWorks加速器 4F</li>
               <li>
                 地點
-                <span className="pl-5">100台北市中正區仁愛路二段99號 4F</span>
+                <span className="pl-5">110台北市信義區基隆路一段178號 4F</span>
               </li>
               <li>
                 餐點
-                <span className="pl-5">供午餐 (free lunch)</span>
+                <span className="pl-5">供午晚餐 (free lunch & supper)</span>
               </li>
             </ul>
           </div>
