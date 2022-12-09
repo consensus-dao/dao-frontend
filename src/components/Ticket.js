@@ -11,13 +11,13 @@ function Ticket() {
           <ul className="font">
             <li className="mb-2">
               a. 選擇票種並結帳
-              <a className="wallet-Btn ml-2" href="">
+              <a className="wallet-Btn ml-2" href="https://consensus-confv1.on.fleek.co/">
                 Connect Wallet
               </a>
             </li>
             <li>
               b. 切換主網
-              <a className="switch-Btn ml-2" href="">
+              <a className="switch-Btn ml-2" href="https://consensus-confv1.on.fleek.co/">
                 Switch to Arbitrum One
               </a>
             </li>

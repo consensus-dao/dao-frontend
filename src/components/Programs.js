@@ -63,11 +63,11 @@ function Programs() {
         </li>
         <li>
           <p className="time">14:30~15:00</p>
-          <p className="topic">Tea Break</p>
+          <p className="event">Tea Break</p>
         </li>
         <li>
           <p className="time">15:00~15:20</p>
-          <p className="event">Lightning Talk</p>
+          <p className="topic">Lightning Talk</p>
         </li>
         <li>
           <p className="time">15:30~16:00</p>
@@ -77,7 +77,7 @@ function Programs() {
         </li>
         <li>
           <p className="time">16:10~16:40</p>
-          <p className="topic">Job Fairs</p>
+          <p className="event">Job Fairs</p>
         </li>
         <li>
           <p className="time">16:40~17:10</p>

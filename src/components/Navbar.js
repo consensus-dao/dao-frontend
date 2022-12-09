@@ -25,7 +25,7 @@ function Navbar() {
             <a href="">The DAO</a>
           </li>
         </ul>
-        <a className="wallet-Btn" href="#">
+        <a className="wallet-Btn" href="https://consensus-confv1.on.fleek.co/">
           Connect Wallet
         </a>
       </div>
